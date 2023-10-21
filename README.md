@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Shmidt</h1>
 <h3 align="center">An enthusiastic full stack developer and multimedia designer</h3>
-<img aling="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukshm&label=Profile%20views&color=0e75b6&style=flat" alt="lukshm" /> </p>
 
 - 🌱 I’m currently learning **JavaScript | React | Redux | Redux Toolkit | Next.js | Node | PostgreSQL**
